@@ -27,4 +27,8 @@ print(item2.calculate_total_price())
 item1.apply_discount()
 print(item1.price())
 
+item3 = Item("Cable", 10, 5)
+item4 = Item("Mouse", 50, 5)
+item5 = Item("Keyboard", 75, 5)
+
 
